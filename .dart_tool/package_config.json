@@ -164,13 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "wisatabandung",
+      "name": "pameranseni",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-12-24T17:26:50.542756Z",
+  "generated": "2024-12-24T18:24:46.403898Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/src/flutter_windows_3.24.5-stable/flutter",
